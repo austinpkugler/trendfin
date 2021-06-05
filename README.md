@@ -1,6 +1,6 @@
 # trendfin
 
-The ultimate package for analyzing online finance communities.
+The ultimate package for analyzing online finance communities (ex: r/wallstreetbets).
 
 The trendfin package utilizes the Reddit and Pushshift APIs to provide detailed analysis of retail investor discussions. The [Financial Modeling Prep API](https://financialmodelingprep.com/developer) is used for market data. Functionality exists for parsing stock tickers and option contracts, as well as calculating sentiment values that reflect a user's bearish or bullish outlook. Both trending and historical Reddit posts and comments can be collected.
 
